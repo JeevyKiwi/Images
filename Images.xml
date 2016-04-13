@@ -2,7 +2,7 @@
   <block type="oled_cleardisplay" id="9" x="29" y="72">
     <next>
       <block type="multimedia_displaybmp" id="25">
-        <field name="BMP">soccer.bmp</field>
+        <field name="BMP">soccer_b</field>
       </block>
     </next>
   </block>
