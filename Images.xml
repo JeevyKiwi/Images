@@ -1,7 +1,7 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="oled_cleardisplay" id="9" x="29" y="72">
+  <block type="oled_cleardisplay" id="1" x="29" y="72">
     <next>
-      <block type="multimedia_displaybmp" id="25">
+      <block type="multimedia_displaybmp" id="2">
         <field name="BMP">soccer</field>
       </block>
     </next>
